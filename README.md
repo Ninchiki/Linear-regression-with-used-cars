@@ -1,4 +1,4 @@
-# Linear regression performed on used cars dataset
+# Linear regression on used cars dataset
 
 # Description
 Price prediction of used cars using linear regression 
